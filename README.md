@@ -3,7 +3,6 @@
 SCSI expansion board for Amiga CDTV
 
     - Implementation of the Commodore reference design (A575)
-    
     - internal 50 pin SCSI connector
     - internal 68 pin SCSI connector (in 8bit mode)
     - passive termination (2x220,2x330 or 2 x 220/330 THT)
