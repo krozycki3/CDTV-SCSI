@@ -10,7 +10,6 @@ SCSI expansion board for Amiga CDTV
     - disable jumper
     - activity LED
     - supports autoconfig and autoboot (scsi.device)
-    - RDB compatible
     - maximum partition size with ROM v2.30: 1GB
     
 The inspiration was the SCSI CDTV controller performed by Matthias Heinrichs (http://amiga.resource.cx/exp/mhcdtvscsi).
